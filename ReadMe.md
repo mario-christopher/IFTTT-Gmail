@@ -65,3 +65,5 @@ Create a Serverless solution (or FaaS) to resolve my problem.
     Now, whenever I get a new email, the Webtask saves that email information into MongoDB. I can now run fancy queries against the "gmails" collection in MongoDB and analyse and rank my vendors.
 
 ##  Webtask Rocks !!! :-)
+---
+*DisneyWorld Toys For All* is a fictional company created for the pupose of this topic, and to architect a real-life solution to a possible real-life problem using technology.
