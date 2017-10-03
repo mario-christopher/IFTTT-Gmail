@@ -27,6 +27,7 @@ module.exports = (context, cb) => {
 
             db.collection('gmails').insert(newGmail, (err, result) => {
                 console.log('Received and saved new GMail.');
+                db.close();
                 if (err)
                     cb(null, { result: 'Error on saving gmail.' });
                 cb(null, { result: 'Ok' });
