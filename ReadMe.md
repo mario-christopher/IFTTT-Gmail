@@ -11,7 +11,7 @@ Over a period of time, I receive hundreds of emails from vendors for purchases o
 Create a Serverless solution (or FaaS) to resolve my problem.
 
 ## Components involved:
-* [GMail](www.gmail.com) - *I receive vendor emails in my gmail account. This is also a Service on IFTTT.*
+* [GMail](https://gmail.com) - *I receive vendor emails in my gmail account. This is also a Service on IFTTT.*
 * [mLab](https://mlab.com/) - *A cloud hosted MongoDB, that is a repository for storing email information from vendors, for analysis and ranking.*
 * [Webtask](https://webtask.io/) - *The FaaS that extends my functionality and helps analyze my emails.*
 * [IFTTT](https://ifttt.com/) - *An online service to monitor my gmail inbox and connect to Webhook.*
